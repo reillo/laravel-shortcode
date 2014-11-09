@@ -1,4 +1,4 @@
-laravel-shorcode
+laravel-shortcode
 ==============
 
 Really Simple Laravel Shortcode
