@@ -137,7 +137,7 @@ class Shortcode {
     {
         $parameterString = trim($parameterString);
 
-        $matchPattern = '/([\w]+)?(?:\s+)?=(?:\s+)?"([^"]+)?/';
+        $matchPattern = '/([\w]+)\s*=\s*"([^"]+)?/';
         preg_match_all($matchPattern, $parameterString, $matches, PREG_SET_ORDER);
 
         $ret_results = array();
