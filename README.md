@@ -11,7 +11,7 @@ Installation
 Add the following to your `composer.json` file:
 
 ```json
-"nerweb/laravel-shortcode": "1.0.x"
+"nerweb/laravel-shortcode": "dev-master"
 ```
 
 Then, run `composer update nerweb/laravel-shortcode` or `composer install` if you have not already installed packages.
@@ -61,6 +61,7 @@ Shortcode::register('confirm_url', function($parameters = array(), $Shortcode) {
     ));
 });
 
+// Register on decode
 echo Shortcode::decode($string, array(
     'FIRST_NAME'        => 'Hamill',
     'LAST_NAME'         => 'Esmeralda',
