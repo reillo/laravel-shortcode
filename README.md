@@ -69,4 +69,7 @@ echo Shortcode::decode($string, array(
 ));
 ```
 
+## License
+This project is open-sourced software licensed under the [MIT license][mit-url].
+
 [mit-url]: http://opensource.org/licenses/MIT
