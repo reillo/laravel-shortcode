@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 laravel-shorcode
 ==============
 
@@ -70,9 +69,3 @@ echo Shortcode::decode($string, array(
 ```
 
 [mit-url]: http://opensource.org/licenses/MIT
-=======
-laravel-shortcode
-=================
-
-Simple Laravel Shortcode
->>>>>>> f97e4f28216ae73ff7ebe35beffbd79c033643a2
