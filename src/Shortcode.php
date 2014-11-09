@@ -6,7 +6,7 @@ use Closure;
  * Class that parses strings from short codes to real value
  *
  * Class Shortcode
- * @package Laracast\Library
+ * @package Nerweb\Shortcode
  */
 class Shortcode {
 
