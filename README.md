@@ -1,5 +1,8 @@
-laravel-shortcode
+laravel-shortcode (abandoned)
 ==============
+
+use pingpong/shortcode instead.
+
 
 Really Simple Laravel Shortcode
 
